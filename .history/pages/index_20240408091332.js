@@ -100,7 +100,7 @@ export default function Home() {
             <div class="card-header">Logo Variation 5</div>
             <div class="card-body">
               <h4 class="card-title">Horizontal version of Full-colour logo</h4>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
             </div>
           </div>
