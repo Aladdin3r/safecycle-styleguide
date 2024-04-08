@@ -60,7 +60,7 @@ export default function Home() {
         <div class="container">
           <div class="card-group">
               <div class="row">
-                <div className="col-sm-4">
+                <div className="col-md-4">
                   <div class="bg-primary card text-white mb-3" className={styles.card}>
                     <div class="card-body">
                       <h4 class="card-title">Full-colour logo</h4>

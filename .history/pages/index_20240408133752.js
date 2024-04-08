@@ -57,75 +57,80 @@ export default function Home() {
           Rational Explanation of Shapes and logo font choice, including how these elements
           communicate with your audience and support the overall design.
         </p>
-        <div class="container">
-          <div class="card-group">
-              <div class="row">
-                <div className="col-sm-4">
-                  <div class="bg-primary card text-white mb-3" className={styles.card}>
-                    <div class="card-body">
-                      <h4 class="card-title">Full-colour logo</h4>
-                      <img class="card-img-top" src="/fullcolourlogo.svg" alt="full-colour logo"></img>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
-                    </div>
-                  </div>
-                </div>
-              
-                <div className="col-sm-4">
-                  <div class="bg-primary card text-white mb-3" className={styles.card}>
-                  <div class="card-body">
-                    <h4 class="card-title">Black and white Logo</h4>
-                    <img class="card-img-top" src="/blackandwhitelogo.svg" alt="black and white logo"></img>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  </div>
-                  </div>
-                </div>
-
-                <div className="col-sm-4">
-                  <div class="bg-primary card text-white mb-3" className={styles.card}>
-                  <div class="card-body">
-                    <h4 class="card-title">Greyscale Logo</h4>
-                    <img class="card-img-top" src="/greyscalelogo.svg" alt="greyscale logo"></img>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  </div>
-                  </div>
-                </div>
-
-              </div>
-
-              <div class="row">
-                <div className="col-sm-4">
-                  <div class="bg-primary card text-white mb-3" className={styles.card}>
-                    <div class="card-body">
-                      <h4 class="card-title">Monochromatic logo</h4>
-                      <img class="card-img-top" src="/monochromatic.svg" alt="Monochromatic logo"></img>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
-                    </div>
-                  </div>
-                </div>
-              
-                <div className="col-sm-4">
-                  <div class="bg-primary card  text-white mb-3" className={styles.card}>
-                  <div class="card-body">
-                    <h4 class="card-title">Horizontal version of full-colour Logo</h4>
-                    <img class="card-img-top" src="/horizontalfullcolour.svg" alt="horizontal full colour logo"></img>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  </div>
-                  </div>
-                
-              </div>
-
-              <div className="col-sm-4">
-                <div class="bg-primary card  text-white mb-3" className={styles.card}>
-                <div class="card-body">
-                  <h4 class="card-title">Stacked/vertical version of full-colour Logo</h4>
-                  <img class="card-img-top" src="/verticalfullcolour.svg" alt="stacked/vertical colour logo"></img>
-                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
-                </div>
-              </div>
+        <div class="row">
+          <div className="col-sm-6">
+            <div class="card bg-primary text-white mb-3" className={styles.card}>
+            <div class="card-header">Logo Variation 1</div>
+            <div class="card-body">
+              <h4 class="card-title">Full Colour Logo</h4>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+            </div>
+          </div>
+          <div class="card bg-primary text-white mb-3" className={styles.card}>
+            <div class="card-header">Logo Variation 2</div>
+            <div class="card-body">
+              <h4 class="card-title">Black and white Logo/Reversed</h4>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
         </div>
+        <div class="row">
+          <div className="col-sm-6">
+            <div class="card bg-primary text-white mb-3" className={styles.card}>
+            <div class="card-header">Logo Variation 3</div>
+            <div class="card-body">
+              <h4 class="card-title">Greyscale Logo</h4>
+              <img class="card-img-top" src="/logo-discord.webp" alt="Card image cap"></img>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+            </div>
+          </div>
+          <div class="card bg-primary text-white mb-3" className={styles.card}>
+            <div class="card-header">Logo Variation 4</div>
+            <div class="card-body">
+              <h4 class="card-title">Monochromatic Logo</h4>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div className="col-sm-6">
+            <div class="card bg-primary text-white mb-3" className={styles.card}>
+            <div class="card-header">Logo Variation 5</div>
+            <div class="card-body">
+              <h4 class="card-title">Horizontal version of Full-colour logo</h4>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
+            </div>
+            </div>
+          </div>
+          <div class="card bg-primary text-white mb-3" className={styles.card}>
+            <div class="card-header">Logo Variation 6</div>
+            <div class="card-body">
+              <h4 class="card-title">Stacked/vertical version of full-colour logo</h4>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+          </div>
+
+          <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
+          <div class="text-bg-dark me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+            <div class="my-3 py-3">
+              <h2 class="display-5">Another headline</h2>
+              <p class="lead">And an even wittier subheading.</p>
+            </div>
+            <div className="test" class="bg-body-tertiary shadow-sm mx-auto"></div>
+          </div>
+          <div class="bg-body-tertiary me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+            <div class="my-3 p-3">
+              <h2 class="display-5">Another headline</h2>
+              <p class="lead">And an even wittier subheading.</p>
+            </div>
+            <div  className="" class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
+          </div>
+          </div>
+
+        </div>
+        
       </div>
       <div id="colours" class="p-4">
         <h2 class="p-2">Colour Palette, Colour Accessibility</h2>
