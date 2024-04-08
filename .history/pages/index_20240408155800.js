@@ -168,9 +168,8 @@ export default function Home() {
       <div id="types" class="p-4">
         <h2 class="p-2">Typography, Imagery, Graphics</h2>
         <div class="container">
-        <p className={styles.typo_desc} class="p-3">
-        The fonts used in SafeCycle will be a blend of Urbanist and Sarabun. They are both sans serif fonts that are not too fancy but also not too rigid and boring. We believe that these fonts have a charming blend of simple, practical functionality and the calming, welcoming feel of a guidance application.  The characters of the Urbanist font are slightly more block-like, so this font will be used primary for heading and standalone words or phrases. Sarabun's characters on the other hand have a more natural curves and shaped, so this more elegant font will be used for body text and paragraphs.
-        </p>
+        <p class="p-3">
+        The fonts used in SafeCycle will be a blend of Urbanist and Sarabun. They are both sans serif fonts that are not too fancy but also not too rigid and boring. We believe that these fonts have a charming blend of simple, practical functionality and the calming, welcoming feel of a guidance application.  The characters of the Urbanist font are slightly more block-like, so this font will be used primary for heading and standalone words or phrases. Sarabun's characters on the other hand have a more natural curves and shaped, so this more elegant font will be used for body text and paragraphs.</p>
         <div className={styles.h1Typo}>Heading One 40/24</div> 
         <div className={styles.h2Typo}>Heading Two 26/16</div> 
         <div className={styles.h3Typo}>Heading Three 22/16</div> 
