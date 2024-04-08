@@ -139,7 +139,7 @@ export default function Home() {
                   <div class="bg-primary card  text-white mb-3" className={styles.card}>
                   <div class="card-body">
                     <h4 class="card-title">32x32px Favicon</h4>
-                    <img class="card-img-top" src="/favicon2.svg" alt="small favicon"></img>
+                    <img class="card-img-top" src="/favicon2.png" alt="small favicon"></img>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                   </div>
                   </div>
@@ -150,7 +150,7 @@ export default function Home() {
                 <div class="bg-primary card text-white mb-3" className={styles.card}>
                 <div class="card-body">
                   <h4 class="card-title">48x48px Favicon</h4>
-                  <img class="card-img-top" src="/favicon3.svg" alt="normal favicon"></img>
+                  <img class="card-img-top" src="/favicon3.png" alt="normal favicon"></img>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 </div>
@@ -169,7 +169,8 @@ export default function Home() {
         <h2 class="p-2">Typography, Imagery, Graphics</h2>
         <div class="container">
         <p class="p-3">
-        Fonts used will be a blend of Urbanist and Sarabun. They are both sans serif fonts that are not too fancy but also not too rigid and boring. The characters of the Urbanist font are slightly more block-like, so this font will be used primary for heading and standalone words. Sarabun's characters on the other hand have a more natural curves and shaped, so this font will be used for body text and paragraphs.</p>
+          Fonts used will be a blend of Urbanist and Sarabun. They are both sans serif fonts that are not too fancy but also not too rigid and boring. The characters of the Urbanist font are slightly more block-like, so this font will be used primary for heading and standalone words. Sarabun's characters on the other hand have a more natural curves and shaped, so this font will be used for body text and paragraphs.
+        </p>
         <div className={styles.h1Typo}>Heading One 40/24</div> 
         <div className={styles.h2Typo}>Heading Two 26/16</div> 
         <div className={styles.h3Typo}>Heading Three 22/16</div> 

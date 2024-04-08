@@ -12,7 +12,7 @@ export default function Home() {
         "Created by Rawan Aladdin, Nea Pieroelie, Andrew Turitsa."
        />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon1.svg" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <nav class="navbar navbar-expand-lg bg-light sticky-top" data-bs-theme="light">
         <div class="container-fluid">
@@ -104,7 +104,7 @@ export default function Home() {
                 </div>
               
                 <div className="col-sm-4">
-                  <div class="bg-primary card text-white mb-3" className={styles.card}>
+                  <div class="bg-primary card  text-white mb-3" className={styles.card}>
                   <div class="card-body">
                     <h4 class="card-title">Horizontal version of full-colour Logo</h4>
                     <img class="card-img-top" src="/horizontalfullcolour.svg" alt="horizontal full colour logo"></img>
@@ -119,38 +119,6 @@ export default function Home() {
                 <div class="card-body">
                   <h4 class="card-title">Stacked/vertical version of full-colour Logo</h4>
                   <img class="card-img-top" src="/verticalfullcolour.svg" alt="stacked/vertical colour logo"></img>
-                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
-                </div>
-              </div>
-            </div>
-            <div class="row">
-                <div className="col-sm-4">
-                  <div class="bg-primary card text-white mb-3" className={styles.card}>
-                    <div class="card-body z-3">
-                      <h4 class="card-title">16x16px Favicon</h4>
-                      <img class="card-img-top" src="/favicon1.svg" alt="xs favicon"></img>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
-                    </div>
-                  </div>
-                </div>
-              
-                <div className="col-sm-4">
-                  <div class="bg-primary card  text-white mb-3" className={styles.card}>
-                  <div class="card-body">
-                    <h4 class="card-title">32x32px Favicon</h4>
-                    <img class="card-img-top" src="/favicon2.svg" alt="small favicon"></img>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  </div>
-                  </div>
-                
-              </div>
-            
-              <div className="col-sm-4">
-                <div class="bg-primary card text-white mb-3" className={styles.card}>
-                <div class="card-body">
-                  <h4 class="card-title">48x48px Favicon</h4>
-                  <img class="card-img-top" src="/favicon3.svg" alt="normal favicon"></img>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 </div>
