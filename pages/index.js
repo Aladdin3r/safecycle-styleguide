@@ -1,8 +1,17 @@
-
+import Head from "next/head";
 export default function Home() {
   
   return (
     <>
+      <Head>
+        <title>SafeCycle Styleguide</title>
+        <meta name="description" 
+        content=
+        "Styleguide page for SafeCycle app. Created by Rawan Aladdin, Nea Pieroelie, Andrew Turitsa."
+       />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
       <nav class="navbar navbar-expand-lg bg-light" data-bs-theme="light">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">SafeCycle</a>
