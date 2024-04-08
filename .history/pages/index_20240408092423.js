@@ -133,6 +133,7 @@ export default function Home() {
         <div className={styles.ButtonMetaTypo}>Button + Meta 14/24</div>
         </div>
         </div>
+      </div>
       <div id="refs" class="p-4">
         <h2 class="p-2">References</h2>
         <div class="container">
