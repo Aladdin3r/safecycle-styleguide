@@ -6,4 +6,6 @@
   padding: 6rem;
   min-height: 100vh;
 }
-
+.card{
+  max-width: 30em;
+}
