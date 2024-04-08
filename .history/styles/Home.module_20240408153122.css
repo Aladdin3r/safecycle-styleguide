@@ -10,9 +10,6 @@
   max-width: 30em;
 }
 
-.typo_desc{
-  margin-left: -14.5em;
-}
 .h1Typo {
   font-family: "Urbanist", sans-serif;
   font-style: bold;
@@ -43,7 +40,7 @@
   font-size: 20;
   font-weight: 500;
   color: black;
-  margin-left: -14.5em;
+  margin-left: -14em;
 }
 
 .BodyTypo {
@@ -52,7 +49,6 @@
   font-style: normal;
   color: black;
   font-size: 18;
-  margin-left: -14.5em;
 }
 .ButtonMetaTypo {
   font-family: "Sarabun", sans-serif;
@@ -60,5 +56,4 @@
   font-style: normal;
   color: black;
   font-size: 18;
-  margin-left: -14.5em;
 }

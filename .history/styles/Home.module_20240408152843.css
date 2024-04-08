@@ -10,16 +10,12 @@
   max-width: 30em;
 }
 
-.typo_desc{
-  margin-left: -14.5em;
-}
 .h1Typo {
   font-family: "Urbanist", sans-serif;
   font-style: bold;
   font-size: 40pt;
   font-weight: 900;
   color: black;
-  margin-left: -4em;
 }
 .h2Typo {
   font-family: "Urbanist", sans-serif;
@@ -27,7 +23,6 @@
   font-size: 26pt;
   font-weight: 600;
   color: black;
-  margin-left: -6em;
 }
 .h3Typo {
   font-family: "Urbanist", sans-serif;
@@ -35,7 +30,6 @@
   font-size: 22pt;
   font-weight: 500;
   color: black;
-  margin-left: -7em;
 }
 .h4Typo {
   font-family: "Urbanist", sans-serif;
@@ -43,7 +37,6 @@
   font-size: 20;
   font-weight: 500;
   color: black;
-  margin-left: -14.5em;
 }
 
 .BodyTypo {
@@ -52,7 +45,6 @@
   font-style: normal;
   color: black;
   font-size: 18;
-  margin-left: -14.5em;
 }
 .ButtonMetaTypo {
   font-family: "Sarabun", sans-serif;
@@ -60,5 +52,4 @@
   font-style: normal;
   color: black;
   font-size: 18;
-  margin-left: -14.5em;
 }

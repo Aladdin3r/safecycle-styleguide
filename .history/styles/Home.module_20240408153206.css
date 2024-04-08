@@ -10,9 +10,6 @@
   max-width: 30em;
 }
 
-.typo_desc{
-  margin-left: -14.5em;
-}
 .h1Typo {
   font-family: "Urbanist", sans-serif;
   font-style: bold;
@@ -59,6 +56,5 @@
   font-weight:500;
   font-style: normal;
   color: black;
-  font-size: 18;
-  margin-left: -14.5em;
+  font-size: 18;\  margin-left: -14.5em;
 }
