@@ -64,7 +64,7 @@ export default function Home() {
                   <div class="bg-primary card text-white mb-3" className={styles.card}>
                     <div class="card-body">
                       <h4 class="card-title">Full-colour logo</h4>
-                      <img class="card-img-top" src="/fullcolourlogo.svg" alt="full-colour logo"></img>
+                      <img class="card-img-top" src="/fullcolourlogo.svg" alt="Horizontal full-colour logo"></img>
                       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
                     </div>
                   </div>

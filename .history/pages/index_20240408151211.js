@@ -64,7 +64,7 @@ export default function Home() {
                   <div class="bg-primary card text-white mb-3" className={styles.card}>
                     <div class="card-body">
                       <h4 class="card-title">Full-colour logo</h4>
-                      <img class="card-img-top" src="/fullcolourlogo.svg" alt="full-colour logo"></img>
+                      <img class="card-img-top" src="/fullcolourlogo.svg" alt="Horizontal full-colour logo"></img>
                       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
                     </div>
                   </div>
@@ -74,7 +74,7 @@ export default function Home() {
                   <div class="bg-primary card text-white mb-3" className={styles.card}>
                   <div class="card-body">
                     <h4 class="card-title">Black and white Logo</h4>
-                    <img class="card-img-top" src="/blackandwhitelogo.svg" alt="black and white logo"></img>
+                    <img class="card-img-top" src="/blackandwhitelogo.svg" alt="ful colour logo"></img>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                   </div>
                   </div>
@@ -84,7 +84,7 @@ export default function Home() {
                   <div class="bg-primary card text-white mb-3" className={styles.card}>
                   <div class="card-body">
                     <h4 class="card-title">Greyscale Logo</h4>
-                    <img class="card-img-top" src="/greyscalelogo.svg" alt="greyscale logo"></img>
+                    <img class="card-img-top" src="/greyscalelogo.svg" alt="ful colour logo"></img>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                   </div>
                   </div>
@@ -97,7 +97,7 @@ export default function Home() {
                   <div class="bg-primary card text-white mb-3" className={styles.card}>
                     <div class="card-body">
                       <h4 class="card-title">Monochromatic logo</h4>
-                      <img class="card-img-top" src="/monochromatic.svg" alt="Monochromatic logo"></img>
+                      <img class="card-img-top" src="/monochromatic.svg" alt="Horizontal full-colour logo"></img>
                       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
                     </div>
                   </div>
@@ -107,7 +107,7 @@ export default function Home() {
                   <div class="bg-primary card  text-white mb-3" className={styles.card}>
                   <div class="card-body">
                     <h4 class="card-title">Horizontal version of full-colour Logo</h4>
-                    <img class="card-img-top" src="/horizontalfullcolour.svg" alt="horizontal full colour logo"></img>
+                    <img class="card-img-top" src="/fullcolourlogo.svg" alt="ful colour logo"></img>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                   </div>
                   </div>
@@ -118,7 +118,7 @@ export default function Home() {
                 <div class="bg-primary card  text-white mb-3" className={styles.card}>
                 <div class="card-body">
                   <h4 class="card-title">Stacked/vertical version of full-colour Logo</h4>
-                  <img class="card-img-top" src="/verticalfullcolour.svg" alt="stacked/vertical colour logo"></img>
+                  <img class="card-img-top" src="/fullcolourlogo.svg" alt="ful colour logo"></img>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 </div>
