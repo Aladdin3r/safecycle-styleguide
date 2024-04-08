@@ -12,7 +12,7 @@ export default function Home() {
         "Created by Rawan Aladdin, Nea Pieroelie, Andrew Turitsa."
        />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon1.svg" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <nav class="navbar navbar-expand-lg bg-light sticky-top" data-bs-theme="light">
         <div class="container-fluid">
