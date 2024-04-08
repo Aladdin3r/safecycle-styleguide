@@ -54,8 +54,7 @@ export default function Home() {
       <div id="logo" class="p-4">
         <h2 class="p-2 mt-3">Logo Design</h2>
         <p class="p-3">
-          Logo font choice: DIN condensed bold
-          colours: #F0983F orange #911C12 red #AD5C0A pale orange
+          Logo font choice: 
         </p>
         <div class="container">
           <div class="card-group">
