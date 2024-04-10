@@ -11,7 +11,7 @@
 }
 
 .typo_desc{
-  /* margin-left: -14.5em; */
+  margin-left: 10%;
 
 }
 .h1Typo {
@@ -20,7 +20,7 @@
   font-size: 40pt;
   font-weight: 900;
   color: black;
-  /* margin-left: -4em; */
+  margin-left: -2em;
 }
 .h2Typo {
   font-family: "Urbanist", sans-serif;
@@ -28,7 +28,7 @@
   font-size: 26pt;
   font-weight: 600;
   color: black;
-  /* margin-left: -6em; */
+  margin-left: -4em;
 }
 .h3Typo {
   font-family: "Urbanist", sans-serif;
@@ -36,7 +36,7 @@
   font-size: 22pt;
   font-weight: 500;
   color: black;
-  /* margin-left: -7em; */
+  margin-left: -5em;
 }
 .h4Typo {
   font-family: "Urbanist", sans-serif;
@@ -44,7 +44,7 @@
   font-size: 20;
   font-weight: 500;
   color: black;
-  /* margin-left: -14.5em; */
+  margin-left: -12.5em;
 }
 
 .BodyTypo {
@@ -53,7 +53,7 @@
   font-style: normal;
   color: black;
   font-size: 18;
-  /* margin-left: -14.5em; */
+  margin-left: -12.5em;
 }
 .ButtonMetaTypo {
   font-family: "Sarabun", sans-serif;
@@ -61,44 +61,44 @@
   font-style: normal;
   color: black;
   font-size: 18;
-  /* margin-left: -14.5em; */
+  margin-left: -12.5em;
 }
 .graphicTitle{
   margin-top: 2em;
-  margin-left: -7em;
+  margin-left: -5em;
 }
 .carCrash{
   margin-top: 1em;
-  /* margin-left: -14em; */
+  margin-left: -12em;
 }
 
 .graphicDesc{
   margin-top: 1em;
-  /* margin-left: -14em; */
+  margin-left: -12em;
 }
 
 .graphicName{
   margin-top: 1em;
-  /* margin-left: -14em; */
+  margin-left: -12em;
 }
 
 .graphicExpl{
   margin-top: 2em;
   margin-bottom: 2em;
-  /* margin-left: -14em; */
+  margin-left: -14em;
 }
 
 .traffic{
   margin-top: 1em;
-  /* margin-left: -14em; */
+  margin-left: -14em;
 }
 
 .RoadClosed{
   margin-top: 1em;
-  /* margin-left: -14em; */
+  margin-left: -14em;
 }
 
 .locationPage{
   margin-top: 2em;
-    /* margin-left: -14em; */
+  margin-left: -14em;
 }
