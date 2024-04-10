@@ -250,10 +250,10 @@ export default function Home() {
         <img className={styles.carCrash} src="/carCrash.png" width={400} height={150} alt="Car Accident"></img>
         <div className={styles.graphicDesc}>Red, jarring and spiked graphic implies danger and an impact of some sort.</div>
         <div className={styles.graphicName}>Traffic Jam:</div>
-        <img className={styles.traffic} src="/traffic.png" width={400} height={150} alt="Traffic"></img>
+        <img className={styles.traffic} src="/traffic.png" alt="Traffic"></img>
         <div className={styles.graphicDesc}>Many cars, tightly packed together, but with no outright or hazard or danger.</div>
         <div className={styles.graphicName}>Road Closed:</div>
-        <img className={styles.roadClosed} src="/roadClosed.png" width={400} height={150} alt="Road Closed"></img>
+        <img className={styles.roadClosed} src="/roadClosed.png" alt="Road Closed"></img>
         <div className={styles.graphicDesc}>An iconic piece of equipment that is easily recognized as “Do not drive past this sign”.</div>
         <div className={styles.graphicExpl}>Our app will aim to make use numerous descriptive vector graphics accompanied by text that can remain simple while clearly depicting a specific concept. The aim of these graphics is to allow users of all experience in app usage to quickly understand “what does what” in our app. SafeCycle will often need to provide a lot of information without a large amount of pages so we will attempt to make use of the “show don’t tell” method as often as possible for efficiencies’ sake.</div>
         <div className={styles.graphicTitle}>IMAGERY</div>
