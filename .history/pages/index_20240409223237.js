@@ -189,8 +189,8 @@ export default function Home() {
         <img className={styles.RoadClosed} src="/RoadClosed.png" alt="Raod Closed"></img>
         <div className={styles.graphicDesc}>An iconic piece of equipment that is easily recognized as “Do not drive past this sign”.</div>
         <div className={styles.graphicExpl}>Our app will aim to make use numerous descriptive vector graphics accompanied by text that can remain simple while clearly depicting a specific concept. The aim of these graphics is to allow users of all experience in app usage to quickly understand “what does what” in our app. SafeCycle will often need to provide a lot of information without a large amount of pages so we will attempt to make use of the “show don’t tell” method as often as possible for efficiencies’ sake.</div>
-        <h2 className={styles.graphicTitle}>IMAGERY</h2>
-        <div className={styles.graphicExpl}>Being a map app, Safestyle would often be needed by the users to view information about an actual physical location, that users may visit themselves. Thus, we will attempt to make use of as many actual images of the area that they are investigating as possible. This can be seen in the example below.</div>
+        <h2>IMAGERY</h2>
+        <div>Being a map app, Safestyle would often be needed by the users to view information about an actual physical location, that users may visit themselves. Thus, we will attempt to make use of as many actual images of the area that they are investigating as possible. This can be seen in the example below.</div>
         <img className={styles.locationPage} src="/locationPage.png" alt="Location Page"></img>
 
 

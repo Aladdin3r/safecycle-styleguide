@@ -177,21 +177,21 @@ export default function Home() {
         <div className={styles.h4Typo}>Heading Four 20/16</div> 
         <div className={styles.BodyTypo}>Body 14/24</div>
         <div className={styles.ButtonMetaTypo}>Button + Meta 14/24</div>
-        <h2 className={styles.graphicTitle}>GRAPHICS</h2>
-        <div className={styles.graphicName}>Here are some examples of icons we will be using:</div>
+        <h2 class="p-2">GRAPHICS</h2>
+        <div>Here are some examples of icons we will be using:</div>
         <div className={styles.graphicName}>Car accident:</div>
         <img className={styles.carCrash} src="/carCrash.png" alt="Car Accident"></img>
         <div className={styles.graphicDesc}>Red, jarring and spiked graphic implies danger and an impact of some sort.</div>
         <div className={styles.graphicName}>Traffic Jam:</div>
-        <img className={styles.traffic} src="/traffic.png" alt="Traffic"></img>
+        <img class="traffic" src="/traffic.png" alt="Traffic"></img>
         <div className={styles.graphicDesc}>Many cars, tightly packed together, but with no outright or hazard or danger.</div>
         <div className={styles.graphicName}>Road Closed:</div>
-        <img className={styles.RoadClosed} src="/RoadClosed.png" alt="Raod Closed"></img>
+        <img class="RoadClosed" src="/RoadClosed.png" alt="Raod Closed"></img>
         <div className={styles.graphicDesc}>An iconic piece of equipment that is easily recognized as “Do not drive past this sign”.</div>
-        <div className={styles.graphicExpl}>Our app will aim to make use numerous descriptive vector graphics accompanied by text that can remain simple while clearly depicting a specific concept. The aim of these graphics is to allow users of all experience in app usage to quickly understand “what does what” in our app. SafeCycle will often need to provide a lot of information without a large amount of pages so we will attempt to make use of the “show don’t tell” method as often as possible for efficiencies’ sake.</div>
-        <h2 className={styles.graphicTitle}>IMAGERY</h2>
-        <div className={styles.graphicExpl}>Being a map app, Safestyle would often be needed by the users to view information about an actual physical location, that users may visit themselves. Thus, we will attempt to make use of as many actual images of the area that they are investigating as possible. This can be seen in the example below.</div>
-        <img className={styles.locationPage} src="/locationPage.png" alt="Location Page"></img>
+        <div className={styles.graphicDesc}>Our app will aim to make use numerous descriptive vector graphics accompanied by text that can remain simple while clearly depicting a specific concept. The aim of these graphics is to allow users of all experience in app usage to quickly understand “what does what” in our app. SafeCycle will often need to provide a lot of information without a large amount of pages so we will attempt to make use of the “show don’t tell” method as often as possible for efficiencies’ sake.</div>
+        <div>IMAGERY</div>
+        <div>Being a map app, Safestyle would often be needed by the users to view information about an actual physical location, that users may visit themselves. Thus, we will attempt to make use of as many actual images of the area that they are investigating as possible. This can be seen in the example below.</div>
+        <img class="locationPage" src="/locationPage.png" alt="Location Page"></img>
 
 
         </div>
