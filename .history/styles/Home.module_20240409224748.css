@@ -75,11 +75,10 @@
   /* margin-left: -7em; */
   margin-left: 10%;
   font-weight: bold;
-  font-size: 30px;
-  color: black;
+  font-size: 20px;
 }
 .carCrash{
-  margin-top: 2em;
+  margin-top: 1em;
   /* margin-left: -14em; */
   margin-left: 10%;
 }
@@ -104,13 +103,13 @@
 }
 
 .traffic{
-  margin-top: 2em;
+  margin-top: 1em;
   /* margin-left: -14em; */
   margin-left: 10%;
 }
 
 .RoadClosed{
-  margin-top: 2em;
+  margin-top: 1em;
   /* margin-left: -14em; */
   margin-left: 10%;
 }
@@ -119,5 +118,4 @@
   margin-top: 2em;
     /* margin-left: -14em; */
     margin-left: 10%;
-    border: solid black;
 }
