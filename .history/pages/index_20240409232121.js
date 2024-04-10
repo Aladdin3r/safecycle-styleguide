@@ -1,6 +1,5 @@
 import Head from "next/head";
 import styles from "@/styles/Home.module.css"
-import Image from "next/image";
 
 export default function Home() {
   
@@ -166,72 +165,6 @@ export default function Home() {
 
         </div>
       </div>
-
-
-      <div id="colours" className="p-4">
-          <h2 className="p-2">Colour Palette, Colour Accessibility</h2>
-          <div className="container">
-            <div className={styles.resedagreen}>
-              <div className={styles.colourh3}>
-                <h3>Reseda Green</h3>
-              </div>
-              <div className={styles.colourimage}>
-                <Image src="/reseda-green.png" alt="Musty green colour called reseda green" width="300" height="200"/>
-              </div>
-              <div className={styles.colourh4}>
-                <h4>#6E7747</h4>
-              </div>
-              <div className={styles.colourp}>
-                <p>We chose reseda green (an olive-green shade) as our primary colour to promote eco-friendly modes of transportation, symbolizing sustainability and to encourage users to embrace non-vehicle travel options.</p>
-              </div>
-            </div>
-            <div className={styles.jet}>
-              <div className={styles.colourh3}>
-                <h3>Reseda Green</h3>
-              </div>
-              <div className={styles.colourimage}>
-                <Image src="/jet.png" alt="A dark grey closer to black" width="300" height="200"/>
-              </div>
-              <div className={styles.colourh4}>
-                <h4>#2B2B2B</h4>
-              </div>
-              <div className={styles.colourp}>
-                <p>We chose jet (a darker grey shade) as our secondary because it provides strong contrast against lighter backgrounds. improves visibility and reduces eye strain for users</p>
-              </div>
-            </div>
-            <div className={styles.whitesmoke}>
-              <div className={styles.colourh3}>
-                <h3>White Smoke</h3>
-              </div>
-              <div className={styles.colourimage}>
-                <Image src="/white-smoke.png" alt="A very light grey color" width="300" height="200"/>
-              </div>
-              <div className={styles.colourh4}>
-                <h4>#F3F3F3</h4>
-              </div>
-              <div className={styles.colourp}>
-                <p>We chose white smoke (a light grey shade) as the accent color to optimize readability and create a clean, modern aesthetic. The grey background contrasts nicely with the dark texts, ensuring that information stands out clearly without causing visual strain</p>
-              </div>
-            </div>
-            <div className={styles.white}>
-              <div className={styles.colourh3}>
-                <h3>White</h3>
-              </div>
-              <div className={styles.colourimage}>
-                <Image src="/white.png" alt="White" width="300" height="200"/>
-              </div>
-              <div className={styles.colourh4}>
-                <h4>#FFFFFF</h4>
-              </div>
-              <div className={styles.colourp}>
-                <p>We chose a white background because we wanted to keep the app simple. </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-
       <div id="types" class="p-4">
         <h2 class="p-2">Typography, Imagery, Graphics</h2>
         <div class="container">

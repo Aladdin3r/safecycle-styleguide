@@ -176,7 +176,7 @@ export default function Home() {
                 <h3>Reseda Green</h3>
               </div>
               <div className={styles.colourimage}>
-                <Image src="/reseda-green.png" alt="Musty green colour called reseda green" width="300" height="200"/>
+                <Image src="/images/reseda-green.png" alt="Musty green colour called reseda green" width="300" height="200"/>
               </div>
               <div className={styles.colourh4}>
                 <h4>#6E7747</h4>
@@ -190,7 +190,7 @@ export default function Home() {
                 <h3>Reseda Green</h3>
               </div>
               <div className={styles.colourimage}>
-                <Image src="/jet.png" alt="A dark grey closer to black" width="300" height="200"/>
+                <Image src="/images/jet.png" alt="A dark grey closer to black" width="300" height="200"/>
               </div>
               <div className={styles.colourh4}>
                 <h4>#2B2B2B</h4>
@@ -204,7 +204,7 @@ export default function Home() {
                 <h3>White Smoke</h3>
               </div>
               <div className={styles.colourimage}>
-                <Image src="/white-smoke.png" alt="A very light grey color" width="300" height="200"/>
+                <Image src="/images/white-smoke.png" alt="A very light grey color" width="300" height="200"/>
               </div>
               <div className={styles.colourh4}>
                 <h4>#F3F3F3</h4>
@@ -218,7 +218,7 @@ export default function Home() {
                 <h3>White</h3>
               </div>
               <div className={styles.colourimage}>
-                <Image src="/white.png" alt="White" width="300" height="200"/>
+                <Image src="/images/white.png" alt="White" width="300" height="200"/>
               </div>
               <div className={styles.colourh4}>
                 <h4>#FFFFFF</h4>
