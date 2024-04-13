@@ -55,8 +55,18 @@ export default function Home() {
       <div id="logo" class="p-4">
         <h2 class="p-2 mt-3">Logo Design</h2>
         <p class="p-3">
-          Logo font choice: DIN condensed bold
-          colours: #F0983F orange #911C12 red #AD5C0A pale orange
+          Logo font choice: DIN condensed bold <br/>
+          Colours: #F0983F orange #911C12 red #AD5C0A pale orange
+          <h5>Rationale:</h5>
+          <p>
+            When ideating for our logo design, we knew we wanted to incorporate elements of the road to give some visual clues into our app. 
+            We also thought of elements common to navigation apps. So first we added the red navigation pin common to map applications. 
+            While ideating and coming up with ways to incorporate our title into the logo,
+            we thought of including the S to wrap around the pin with some dashes to represent a yellow road. 
+            Then for the wordmark, we kept the same colours as the logo, but added some movement to the two words by elongating the lines of the f and y which were 
+            flat in the font choice, which was chosen deliberately to easily manipulate for movement. Lastly, dashes were added to the yellow line of the f to again 
+            represent a road. 
+          </p>
         </p>
         <div class="container">
           <div class="card-group">
@@ -66,7 +76,6 @@ export default function Home() {
                     <div class="card-body">
                       <h4 class="card-title">Full-colour logo</h4>
                       <img class="card-img-top" src="/fullcolourlogo.svg" alt="full-colour logo"></img>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
                     </div>
                   </div>
                 </div>
@@ -76,7 +85,6 @@ export default function Home() {
                   <div class="card-body">
                     <h4 class="card-title">Black and white Logo</h4>
                     <img class="card-img-top" src="/blackandwhitelogo.svg" alt="black and white logo"></img>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                   </div>
                   </div>
                 </div>
@@ -86,7 +94,6 @@ export default function Home() {
                   <div class="card-body">
                     <h4 class="card-title">Greyscale Logo</h4>
                     <img class="card-img-top" src="/greyscalelogo.svg" alt="greyscale logo"></img>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                   </div>
                   </div>
                 </div>
@@ -99,7 +106,6 @@ export default function Home() {
                     <div class="card-body">
                       <h4 class="card-title">Monochromatic logo</h4>
                       <img class="card-img-top" src="/monochromatic.svg" alt="Monochromatic logo"></img>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
                     </div>
                   </div>
                 </div>
@@ -109,7 +115,6 @@ export default function Home() {
                   <div class="card-body">
                     <h4 class="card-title">Horizontal version of full-colour Logo</h4>
                     <img class="card-img-top" src="/horizontalfullcolour.svg" alt="horizontal full colour logo"></img>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                   </div>
                   </div>
                 
@@ -120,7 +125,6 @@ export default function Home() {
                 <div class="card-body">
                   <h4 class="card-title">Stacked/vertical version of full-colour Logo</h4>
                   <img class="card-img-top" src="/verticalfullcolour.svg" alt="stacked/vertical colour logo"></img>
-                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 </div>
               </div>
@@ -131,7 +135,6 @@ export default function Home() {
                     <div class="card-body z-3">
                       <h4 class="card-title">16x16px Favicon</h4>
                       <img class="card-img-top" src="/favicon1.svg" alt="xs favicon"></img>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. blah blah blah</p>
                     </div>
                   </div>
                 </div>
@@ -141,7 +144,6 @@ export default function Home() {
                   <div class="card-body">
                     <h4 class="card-title">32x32px Favicon</h4>
                     <img class="card-img-top" src="/favicon2.svg" alt="small favicon"></img>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                   </div>
                   </div>
                 
@@ -152,7 +154,6 @@ export default function Home() {
                 <div class="card-body">
                   <h4 class="card-title">48x48px Favicon</h4>
                   <img class="card-img-top" src="/favicon3.svg" alt="normal favicon"></img>
-                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 </div>
               </div>
